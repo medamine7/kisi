@@ -22,6 +22,19 @@
 </template>
 
 <script lang="ts" setup>
+  useSeoMeta({
+    title: "Mosaic",
+    description: "Mosaic page",
+    ogTitle: "Kisi Mosaic page",
+    twitterDescription: "A page with a dynamic mosaic gallery",
+    ogDescription: "A page with a dynamic mosaic gallery",
+    twitterTitle: "Kisi Mosaic",
+    ogImage: "/favicon.ico",
+    twitterImage: "/favicon.ico",
+    twitterCard: "summary",
+    author: "Mohamed Amine Baladi<@medamine7>",
+  });
+
   const showModal = ref(false);
 
   const { $api } = useNuxtApp();
