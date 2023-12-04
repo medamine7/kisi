@@ -1,6 +1,10 @@
 import cors from 'cors';
+  
+const clientUrl = process.env.CLIENT_URL || 'http://localhost:3000';
+const whitelist = [
+  clientUrl,
+];
 
-const whitelist = ['http://localhost:8000'];
 const corsOptions: cors.CorsOptions = {
   origin: (origin, callback) => {
     if (!origin || whitelist.indexOf(origin) !== -1) return callback(null, true);
