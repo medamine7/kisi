@@ -1,0 +1,46 @@
+:root {
+  --kisi-font-family: "Neue Haas Unica", sans-serif;
+
+  --kisi-backdrop-color: #191919;
+  --kisi-primary-color: #4a52ff;
+  --kisi-primary-color-light: #656cf4;
+  --kisi-primary-color-dark: #3d45d4;
+  --kisi-text-color: #ffffff;
+
+  --kisi-text-h1-font-size: 32px;
+  --kisi-text-h1-font-weight: 400;
+  --kisi-text-h1-line-height: 1.2;
+
+  --kisi-text-h2-font-size: 20px;
+  --kisi-text-h2-font-weight: 600;
+  --kisi-text-h2-line-height: 1.2;
+
+  --kisi-text-h3-font-size: 16px;
+  --kisi-text-h3-font-weight: 600;
+  --kisi-text-h3-line-height: 1.2;
+
+  --kisi-text-h4-font-size: 14px;
+  --kisi-text-h1-font-weight: 400;
+  --kisi-text-h4-line-height: 1.2;
+
+  --kisi-body1-font-size: 16px;
+  --kisi-body1-font-weight: 400;
+  --kisi-body1-line-height: 24px;
+
+  --kisi-body2-font-size: 14px;
+  --kisi-body2-font-weight: 400;
+  --kisi-body2-line-height: 1.2;
+
+  --kisi-caption-font-size: 12px;
+  --kisi-caption-font-weight: 400;
+  --kisi-caption-line-height: 1.2;
+
+  --kisi-primary-button-background-color: var(--kisi-primary-color);
+  --kisi-primary-button-text-color: var(--kisi-text-color);
+  --kisi-primary-button-hover-background-color: var(--kisi-primary-color-light);
+  --kisi-primary-button-hover-text-color: var(--kisi-text-color);
+  --kisi-primary-button-font-size: 1rem;
+  --kisi-primary-button-font-weight: 600;
+  --kisi-primary-button-border-radius: 25px;
+  --kisi-primary-button-padding: 8px 20px 5px;
+}

@@ -1,0 +1,42 @@
+.text-h1 {
+  font-size: var(--kisi-text-h1-font-size, 24px);
+  font-weight: var(--kisi-text-h1-font-weight, 600);
+  line-height: var(--kisi-text-h1-line-height, 1.2);
+}
+
+.text-h2 {
+  font-size: var(--kisi-text-h2-font-size, 20px);
+  font-weight: var(--kisi-text-h2-font-weight, 600);
+  line-height: var(--kisi-text-h2-line-height, 1.2);
+  margin-bottom: var(--kisi-text-h2-margin-bottom, 8px);
+}
+
+.text-h3 {
+  font-size: var(--kisi-text-h3-font-size, 16px);
+  font-weight: var(--kisi-text-h3-font-weight, 600);
+  line-height: var(--kisi-text-h3-line-height, 1.2);
+}
+
+.text-h4 {
+  font-size: var(--kisi-text-h4-font-size, 14px);
+  font-weight: var(--kisi-text-h4-font-weight, 600);
+  line-height: var(--kisi-text-h4-line-height, 1.2);
+}
+
+.text-body1 {
+  font-size: var(--kisi-body1-font-size, 16px);
+  font-weight: var(--kisi-body1-font-weight, 400);
+  line-height: var(--kisi-body1-line-height, 1.2);
+}
+
+.text-body2 {
+  font-size: var(--kisi-body2-font-size, 14px);
+  font-weight: var(--kisi-body2-font-weight, 400);
+  line-height: var(--kisi-body2-line-height, 1.2);
+}
+
+.text-caption {
+  font-size: var(--kisi-caption-font-size, 12px);
+  font-weight: var(--kisi-caption-font-weight, 400);
+  line-height: var(--kisi-caption-line-height, 1.2);
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Seamless access",
+    "description": "Learn why physical access security is crucial for protecting people and assets.",
+    "image": "1.png"
+  },
+  {
+    "title": "Shared workspaces",
+    "description": "Discover the different types of physical access controls, such as locks and biometric scanners.",
+    "image": "2.png"
+  },
+  {
+    "title": "Capacity management",
+    "description": "Get tips on securing entrances and exits.",
+    "image": "3.png"
+  },
+  {
+    "title": "Credentials",
+    "description": "Learn how security cameras can help deter crime.",
+    "image": "4.png"
+  },
+  {
+    "title": "Connect people & spaces",
+    "description": "Get tips on managing visitors to your facility and ensuring their safety and security.",
+    "image": "5.png"
+  },
+  {
+    "title": "Intrusion detection",
+    "description": "Discover why security is essential.",
+    "image": "6.png"
+  },
+  {
+    "title": "Cloud",
+    "description": "Learn about the physical security measures you can take to protect your IT infrastructure.",
+    "image": "7.png"
+  }
+]
